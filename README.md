@@ -1,3 +1,19 @@
-# Contemporary Issues In Data
+# The Influence of Data Breach
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+In this document, I select two articles about data breach occurring in two different industries. I will present and analyze the influence of data breach in these two articles.
+
+## Article 1
+
+In Matthew Delman's [Are Hotel Guests Safe from a Data Breach?](https://securityboulevard.com/2020/01/are-hotel-guests-safe-from-a-data-breach/), it is reported that Starwood Hotels, one of the largest companies that "owned, operated, franchised and managed hotels, resorts, spas, residences, and vacation ownership properties"(from Wikipedia, the free encyclopedia), exposed 500 million worldwide customer records on the Internet for four years.
+
+Due to the diversity and breadth of personal data, hotels are always suffering data breach events. Databases of a hotel contains personal information such as on file names, home addresses, and credit card information, etc. Therefore, if those databases have no proper protection, then there exists a high risk of malicious actions for illegal data usage. For individuals, if user information is leaked, user accounts will face the risk of theft, and personal privacy and property security are not guaranteed to be properly protected. For enterprises (hotels), data breach events will lead to a decline in their prestige and trust among the public and will directly cause customers to change their original choices when choosing hotels. Hotels would therefore lose a large number of existing or potential customers.
+
+It can be said that the role of data is becoming increasingly important today. The security of data is related to corporate reputation, public trust, economic interests, and competitiveness of companies. According to the article, the hotel industry is therefore trying their best to prevent data breach event from happening. For example, Airbnb “created the position of Chief Trust Officer and implemented mandatory multi-factor authentication to name a few of the actions the room-sharing company has taken”. From my point of view, in addition to the efforts of enterprises(hotels), stricter laws should also be made to punish those irresponsible companies who leak, or even sell their user information from their databases.
+
+## Article 2
+
+Apart from the hotel industry mentioned in the above article, data breach also occurs in the airline industry. In Duncan Riley's [Indian discount airline SpiceJet suffers data breach affecting 1.2M customers](https://siliconangle.com/2020/01/30/indian-low-cost-airline-spicejet-suffers-data-breach-affecting-1-2m-customers/), it is reported that SpiceJet Ltd., an Indian discount airline, “has suffered a data breach, with 1.2 million customer records accessed” by a hacker who used a brute-force method that “involved inputting commonly used passwords to gain access to one of SpiceJet’s systems.” The customer records include names of passengers, phone numbers and dates of birth, etc. Even some of the Indian government officials were also included in this data breach event.
+
+Data breach could lead to chaos. In this case, if any criminals have access to this data, they could easily track their target’s movement and exploit the victims. Also, passengers are likely to receive scam emails because their email addresses are exposed to the attackers.
+
+According to the article, “Good password practices are an essential yet surprisingly frequently overlooked component of cybersecurity.” Organizations should always think about effective risk-based techniques to improve and enhance their identity security approach. As a student of NYU, I also feel the importance of password security and cybersecurity. NYU uses Multi-Factor Authentication (MFA) to protect the university’s databases containing user’s personal information. When we want to log in any NYU Internet platforms such as NYU Albert, NYU Classes, we must first log in with our password and username, and then we should use a physical device with Duo Mobile App to confirm our identity. Also, NYU requires us to change our password every 90 days.
